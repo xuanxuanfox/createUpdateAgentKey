@@ -1,0 +1,2 @@
+{ostype:"redhat",versionIndex:2,version:"2.0"}
+{ostype:"windows",versionIndex:2,version:"2.0"}
